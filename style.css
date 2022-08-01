@@ -1,0 +1,18 @@
+.tm-carrosel{
+    height: 500px;
+    width: 1200;
+}
+.tm-carrossel{
+    height: 500px;
+    width: 1200;
+}
+    
+.container-c{
+    width: 80px;
+    height: 80px;
+   display: flex;
+    justify-content: center;
+}
+
+
+    
